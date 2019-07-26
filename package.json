@@ -1,0 +1,11 @@
+{
+  "name": "hb-pig",
+  "version": "1.0.0",
+  "description": "AR.js 3D hb Card",
+  "scripts": {
+    "start": "harp server --port $PORT"
+  },
+  "dependencies": {
+    "harp": "*"
+  }
+}
